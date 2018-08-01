@@ -1,0 +1,17 @@
+baseURL = "https://mrcote.info/"
+languageCode = "en-ca"
+title = "mr mr cote"
+theme = "pickles"
+disqusShortname = "mrcote"
+
+[params]
+AuthorName = "Mark Cote"
+Tagline = "Educational, Investigative, and Absurd Writings by M. R. Côté"
+GithubUsername = "markrcote"
+TwitterUsername = "markrcote"
+
+[taxonomies]
+category = "categories"
+
+[permalinks]
+posts = "/blog/:year/:month/:day/:title"
