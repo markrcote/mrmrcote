@@ -106,7 +106,7 @@ My next step is to simplify my fork of Make 8-Bit Art (I don't need
 any of the other export options, maybe just "Save" and "Display"
 buttons).  After that, I'd like to extend it to allow more than one
 image to exist on the Pi at a time.  Then I could add a feature to my
-web service to choose from previously uploaded images, and even toi
+web service to choose from previously uploaded images, and even to
 create animations.
 
 All in all this has been a fun little project, and as with most, if
