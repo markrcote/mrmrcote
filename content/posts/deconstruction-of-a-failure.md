@@ -1,6 +1,7 @@
 ---
 title: "Deconstruction of a Failure"
 date: 2019-04-30T08:38:57-04:00
+categories: ["mozilla"]
 ---
 Something I regularly tell my daughter, who can tend towards perfectionism, is
 that we all fail.  Over the last few years, I've seen more and more talks and
