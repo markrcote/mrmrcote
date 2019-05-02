@@ -114,7 +114,7 @@ opportunity to try one out.
 Changing the workflow around code reviews at the same time as changing the
 code-review tool itself, however, was too much at once.  Despite some of the
 similarities to GitHub’s flow, the [commit-series concepts](/blog/2018/11/30/a-tale-of-two-commits/)
-were new to many people, as were the related concepts in Mercurial.  The shift
+were new to many people, as were the related aspects of Mercurial.  The shift
 was made all the harder by having to understand a new interface at the same
 time, which was pretty rough in places from the way we initially bolted the new
 commit-series functionality onto Review Board.
