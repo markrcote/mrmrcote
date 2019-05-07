@@ -3,7 +3,7 @@ title: "OSMC USB Remote Codes"
 date: 2019-05-06T21:56:43-04:00
 ---
 
-The last Raspberry PI that I bought (the one that powers my
+The last Raspberry Pi that I bought (the one that powers my
 [ledweb](/blog/2018/05/16/ledweb/) setup) came with a remote control intended
 for media servers, one of the
 [official OSMC remotes](https://osmc.tv/store/product/osmc-remote-control/).
