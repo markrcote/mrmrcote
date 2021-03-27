@@ -2,7 +2,6 @@ baseURL = "https://mrcote.info/"
 languageCode = "en-ca"
 title = "mr mr cote"
 theme = "pickles"
-disqusShortname = "mrcote"
 
 [params]
 AuthorName = "Mark Cote"
