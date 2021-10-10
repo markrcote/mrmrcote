@@ -15,7 +15,7 @@ fruit in the world of Bugzilla server-side performance.  The result is
 approximately doubling the performance of authenticated bug views.
 Here are graphs from January 2014 and October 2014:
 
-<img src="/images/bmo-cgi-perf-jan-oct-2014.png">
+![BMO CGI performance jan-oct 2014](/images/bmo-cgi-perf-jan-oct-2014.png)
 
 The server now also minifies and concatenates [JavaScript][] and [CSS][]
 files.  This affects cold loads mostly, since these files are cached,

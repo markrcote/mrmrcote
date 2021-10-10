@@ -90,17 +90,17 @@ technologies.
 
 Here's an example of something simple drawn in the app:
 
-<img src="/images/screenshot-make-8-bit-art.png">
+![Make 8 bit art screenshot](/images/screenshot-make-8-bit-art.png)
 
 And the resulting image on the matrix:
 
-<img src="/images/led-matrix-hi.jpg">
+![LED matrix photo without flash](/images/led-matrix-hi.jpg)
 
 It's a really intense matrix, and I suck at photography, so here's
 another shot, with the flash on, so you can see the matrix itself a
 bit better:
 
-<img src="/images/led-matrix-hi-flash.jpg">
+![LED matrix photo with flash](/images/led-matrix-hi-flash.jpg)
 
 My next step is to simplify my fork of Make 8-Bit Art (I don't need
 any of the other export options, maybe just "Save" and "Display"

@@ -16,7 +16,7 @@ review-request UI to improve clarity and discoverability.  He came up
 with some initial designs and discussed them with a few MozReview
 users, and here's the result of that conversation:
 
-<img src="/images/move_commits_table.png">
+![Move commits table](/images/move_commits_table.png)
 
 This design provides some immediate benefits, and it sets us up for
 some future improvements.  Here are the thoughts behind the changes:
@@ -57,7 +57,7 @@ controls look much slicker while also being more compact.
 
 We are also noodling around with a further enhancement:
 
-<img src="/images/permabanner.png">
+![Commit banner](/images/permabanner.png)
 
 This is a banner containing data about the current commit, which will
 appear when the user scrolls past the commits table.  It provides a

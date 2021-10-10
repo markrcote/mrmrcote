@@ -61,7 +61,7 @@ There's now a panel just above the attachments table that shows all
 the MozReview commits associated with the displayed bug along with a
 bit of other info:
 
-<img src="/images/bmo-mozreview-table.png" />
+![BMO MozReview table](/images/bmo-mozreview-table.png)
 
 We're currently sorting out a single method to display other relevant
 information, notably, status of reviews, and then we'll add that to

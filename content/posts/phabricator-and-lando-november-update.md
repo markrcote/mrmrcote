@@ -40,11 +40,11 @@ clear and intuitive to our users.
 
 For comparison, this is what we started with:
 
-<img src="/images/lando-mockup-1.png">
+![First lando mockup](/images/lando-mockup-1.png)
 
 And here is where we ended:
 
-<img src="/images/lando-mockup-final.png">
+![Final lando mockup](/images/lando-mockup-final.png)
 
 A partial implementation of the third prototype, with a few more small
 tweaks raised during the last feedback session, is currently on

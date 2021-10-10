@@ -42,9 +42,9 @@ and tracking purposes.
 
 A couple examples:
 
-<img src="/images/readable_status_no_priority.png" width="716px" height="62px">
+![Readable status without priority](/images/readable_status_no_priority.png)
 
-<img src="/images/readable_status_backlog.png" width="1174px" height="62px">
+![Readable status backlog](/images/readable_status_backlog.png)
 
 This is part of Emma's on-going efforts to
 [improve contributors' experiences][].

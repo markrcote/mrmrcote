@@ -6,7 +6,7 @@ categories: ["mozilla", "bmo"]
 Here's your mid-year report from the offices, basements, and caverns
 of [BMO][]!
 
-<img src="https://i.imgur.com/qO7c8Pv.gif">
+![Finn hugging BMO](https://i.imgur.com/qO7c8Pv.gif)
 
 Performance
 ===========

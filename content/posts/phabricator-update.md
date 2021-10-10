@@ -50,7 +50,7 @@ displays relevant details. It is currently pulling live data from
 mozphab.dev. This is what it looks like at the moment, although we
 will continue to iterate on it:
 
-<img src="/images/lando-20170710.png" />
+![Lando 20170710](/images/lando-20170710.png)
 
 What we're working on now:
 

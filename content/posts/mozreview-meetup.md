@@ -40,7 +40,7 @@ to say the least.  So we split off some standalone work from Autoland
 around clarifying the status of reviews.  Now in the commit table
 you'll see something like this:
 
-<img src="/images/screen-shot-new-review-indicators.png" />
+![New review indicators](/images/screen-shot-new-review-indicators.png")
 
 This warrants a bit of explanation, since we're reusing some terms
 from Bugzilla but changing them a little.

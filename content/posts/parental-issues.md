@@ -126,10 +126,7 @@ changes to make our model clear to users.
 
 The MozReview team has been leaning towards option 3.  We have a mock-up
 that strips away a lot of the UI that would be useless in this
-scenario and makes the intention clear.  It's not the prettiest, but
-it wouldn't take too much work to get here:
-
-<img src="http://people.mozilla.org/~mcote/read-only-parent.png" width="800">
+scenario and makes the intention clear.
 
 However, we'd like to hear user feedback before making any decisions.
 Whichever option we go with, we'll come up with a plan to get there

@@ -49,7 +49,7 @@ through organic growth it is now used to review (and generally land)
 around 63% of total commits to mozilla-central, looking at stats for
 bugs in the Core, Firefox, and Toolkit products:
 
-<img src="/images/code-change-attach-by-type.png">
+![Code change attachments by type](/images/code-change-attach-by-type.png)
 
 To be honest, I was a little surprised at the numbers. Not only had
 MozReview grown in popularity over the last year, but much of its
@@ -67,7 +67,7 @@ bug-to-MozReview-request ratio would be lower than the bug-to-patch
 ratio. We ran a query on the number of MozReview requests per bug in
 about the last seven months. These results yielded further surprises:
 
-<img src="/images/mozreview-count-per-bug.png">
+![MozReview requests per bug](/images/mozreview-count-per-bug.png)
 
 About 75% of MozReview commit “series” contain only a single
 commit. 12% contain only two commits, 5% contain three, and 2.7%
@@ -78,7 +78,7 @@ work per bug to some degree, given that 25% of series had more than
 one commit. We decided to compare this to traditional patches attached
 to bugs, which are both more annoying to create and to apply:
 
-<img src="/images/patch-count-per-bug.png">
+![Patch count per bug](/images/patch-count-per-bug.png)
 
 Well then. Over approximately the same time period, of bugs with
 old-style attachments, 76% had a single patch. For bugs with two,
@@ -95,7 +95,7 @@ wanting at least two or three patches over a single one when reviewing
 in BMO. So we looked back to the situation with BMO patches in early
 2016:
 
-<img src="/images/patch-count-per-bug-2016Q1.png">
+![Patch count per bug 2016Q1](/images/patch-count-per-bug-2016Q1.png)
 
 Huh. One-, two-, three-, and four-patch bugs accounted for 74%, 14%,
 5%, and 2.6%, respectively.
@@ -105,7 +105,7 @@ average, we’ve been using both BMO and MozReview in about the same
 way, in terms of discrete code changes per bug, over the last two
 years:
 
-<img src="/images/patch-and-mozreview-request-counts-per-bug.png">
+![Patch and MozReview request counts per bug](/images/patch-and-mozreview-request-counts-per-bug.png)
 
 There are a few other angles we could conceivably consider, but the
 evidence strongly suggests that developers are (1) creating, in most

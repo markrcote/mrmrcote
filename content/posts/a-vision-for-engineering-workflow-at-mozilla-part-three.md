@@ -159,7 +159,7 @@ few examples include
 
 We're already gathering and visualizing some of these stats:
 
-<img src="/images/review-tools.png">
+![Review tool stats](/images/review-tools.png)
 
 Naturally such data is even more valuable if shared so other teams can
 analyze it for their benefit.
