@@ -43,7 +43,7 @@ Maximizing the number of reports per manager is a fairly obvious idea. Where it
 gets complicated is balancing this with the scope and domain of individual dev
 infra teams and of the whole dev infra org.
 
-## Maintenance and system expertise
+## System maintenance and expertise
 
 In dev infra teams, we tend to build teams around certain domains that represent
 phases in the development work flow, or occasionally around specific critical
@@ -79,8 +79,37 @@ constantly improve the developer experience of that phase. However, there risks
 a disconnect with the greatest opportunities for impact across dev infra as a
 whole.
 
-# Broad goals
+## High-level goals
 
-- Specialized teams tend to think in terms of their own projects/products
-- One team's systems may not need work as badly as others
-- New dev-infra problems may not fit neatly into any existing team
+Specializing developer-infrastructure teams in particular domains is crucial for
+both maintenance and future investments. Road maps and visions will improve and
+expand on existing offerings: smoothing interfaces, expanding
+functionality, and scaling up existing solutions, and looking for new
+opportunites to impact development in their domain. The focus can make a big
+difference to developers during particular phases of their workflow: providing
+automation and feedback while writing code, speeding up CI execution, more
+reliably shipping PRs, more effectively monitoring services, etc.
+
+This focus comes with a cost, however: the biggest impact we can have on
+development at any given time changes. When dev infra teams are first created,
+there are usually many low-hanging fruit, aggravating friction at multiple
+points in the development workflow, so many teams can simulatenously greatly
+improve developer experience. At some point, however, some systems will be "good
+enough" compared to others. Maybe CI times have finally dropped to 5 minutes.
+Maybe deploys rarely need attention after being initiated. At a large
+organization, in any area there will always be edge cases and bugs and special
+requirements, but their impact will be increasingly limited compared to
+engineering as a whole.
+
+At this point, there may be an opportunity for a large new initiative that will radically
+impact developmet in a particular way. There may be a few. But it's unlikely
+that there will be the need for radical changes across all domains. Furthermore,
+there may be unexplored opportunities, new domains that haven't previously been
+explored, for which no team has been assembled. These can be hard to spot if the
+majority of developers and managers are focused on existing well-defined areas.
+
+# The balancing act
+
+Here's the part where I confess that I don't have a single amazing solution to balance
+management capacity, system maintenance and expertise, and high-level goals.
+Likely there are a variety of solutions that 
