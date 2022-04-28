@@ -3,7 +3,7 @@ title: "The Management Poles of Developer Infrastructure Teams"
 date: 2022-03-04T17:35:20-05:00
 draft: true
 ---
-Over the past couple years as I've managed multiple developer-infrastruture
+Over the past couple years as I've managed multiple developer-infrastructure
 teams and have started to build new ones, I've found some tensions that are hard
 to resolve. In my current mental model, I see three poles that are tricky to
 balance: management capacity, maintenance tasks and system expertise, and
@@ -85,7 +85,7 @@ Specializing developer-infrastructure teams in particular domains is crucial for
 both maintenance and future investments. Road maps and visions will improve and
 expand on existing offerings: smoothing interfaces, expanding
 functionality, and scaling up existing solutions, and looking for new
-opportunites to impact development in their domain. The focus can make a big
+opportunities to impact development in their domain. The focus can make a big
 difference to developers during particular phases of their workflow: providing
 automation and feedback while writing code, speeding up CI execution, more
 reliably shipping PRs, more effectively monitoring services, etc.
@@ -93,7 +93,7 @@ reliably shipping PRs, more effectively monitoring services, etc.
 This focus comes with a cost, however: the biggest impact we can have on
 development at any given time changes. When dev infra teams are first created,
 there are usually many low-hanging fruit, aggravating friction at multiple
-points in the development workflow, so many teams can simulatenously greatly
+points in the development workflow, so many teams can simultaneously greatly
 improve developer experience. At some point, however, some systems will be "good
 enough" compared to others. Maybe CI times have finally dropped to 5 minutes.
 Maybe deploys rarely need attention after being initiated. At a large
@@ -102,7 +102,7 @@ requirements, but their impact will be increasingly limited compared to
 engineering as a whole.
 
 At this point, there may be an opportunity for a large new initiative that will radically
-impact developmet in a particular way. There may be a few. But it's unlikely
+impact development in a particular way. There may be a few. But it's unlikely
 that there will be the need for radical changes across all domains. Furthermore,
 there may be unexplored opportunities, new domains that haven't previously been
 explored, for which no team has been assembled. These can be hard to spot if the
@@ -112,4 +112,9 @@ majority of developers and managers are focused on existing well-defined areas.
 
 Here's the part where I confess that I don't have a single amazing solution to balance
 management capacity, system maintenance and expertise, and high-level goals.
-Likely there are a variety of solutions that 
+Likely there are a variety of solutions that can be applied and none are perfect. Here's a few ideas I've thought and experimented about:
+
+* Temporarily assign people from one team to project on another. This presents a number of challenges:
+  * Should they stay on the support rotations for their "home" team? From a technical expertise view, they are important to keep the lights on in the systems they're familiar with. Keeping them on such rotations prevents total focus on the new team, however, and at a minimum extends onboarding time.
+  * Managing someone who isn't working with others on your team is challenging; there's a reason matrix management isn't super popular. It can require extra effort on behalf of managers, and the IC can feel that they aren't getting sufficient support.
+
