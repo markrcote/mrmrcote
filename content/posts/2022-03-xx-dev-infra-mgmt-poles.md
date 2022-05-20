@@ -114,7 +114,31 @@ Here's the part where I confess that I don't have a single amazing solution to b
 management capacity, system maintenance and expertise, and high-level goals.
 Likely there are a variety of solutions that can be applied and none are perfect. Here's a few ideas I've thought and experimented about:
 
-* Temporarily assign people from one team to project on another. This presents a number of challenges:
+## Temporarily assign people from one team to project on another.
+
+Pros:
+  * More people familiar with more systems.
+  * People sometimes like to change up what they're working on.
+  * Very direct way to address resource-priority mapping.
+
+Cons:
   * Should they stay on the support rotations for their "home" team? From a technical expertise view, they are important to keep the lights on in the systems they're familiar with. Keeping them on such rotations prevents total focus on the new team, however, and at a minimum extends onboarding time.
   * Managing someone who isn't working with others on your team is challenging; there's a reason matrix management isn't super popular. It can require extra effort on behalf of managers, and the IC can feel that they aren't getting sufficient support.
+  * If it's temporary, people can feel disconnected from both their home team and the new one.
 
+### Variation: tiger team
+
+All new team. Needs a new domain/product.
+
+## Have a whole team contribute to another team's goals.
+
+Pros:
+  * Maintain relationships on home team.
+  * Can bring useful external context.
+  * More people can do more priority things.
+  * Best if there's a focused project that involves some of the home team's domain somehow.
+
+Cons:
+  * Maintenance of home team systems still has to get done.
+  * Very blunt instrument, as no project work will get done on home team.
+  * Can leave devs feeling that their home team isn't important.
