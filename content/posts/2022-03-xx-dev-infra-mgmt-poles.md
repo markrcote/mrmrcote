@@ -45,23 +45,23 @@ infra teams and of the whole dev infra org.
 
 ## System maintenance and expertise
 
-In dev infra teams, we tend to build teams around certain domains that represent
-phases in the development work flow, or occasionally around specific critical
-technologies. It is important that each team has domain-specific knowledge both
-of the area generally (e.g. deployment) and the specific systems involved (e.g.,
-at Shopify, Shipit). The scope and opportunities in a given area can be quite
-broad, and the associated systems tend to grow in size and complexity over time.
-In time, teams can be split when their scope grows too big to handle within a
-single team.
+In dev infra, we tend to build teams around domains that represent phases in the
+development work flow, or occasionally around specific critical technologies. It
+is important that each team has domain-specific knowledge both of the area
+generally (e.g., deployment) and the specific systems involved (e.g., at
+Shopify, Shipit). The scope of and opportunities in a given area can be quite
+broad, and the associated systems grow in size and complexity. In time, teams
+can be split when their scope grows too big to handle within a single team.
 
 Expertise in a team's systems is crucial just to keep everything humming along.
 As with any long-running software application, dependencies need to be managed,
-underlying infra is occasionally migrated, and outages and other incidents have
-to be investigated and solved. Furthermore, at any large organization, dev infra
-services can be under a lot of load relative to the size of the team responsible
-for them, and some will require on-call schedules in case a critical system
-breaks during an emergency (finding out the deployment tool is down when you're
-trying to ship a security fix is, let's just say, not a great experience).
+underlying infra has to be occasionally migrated, and outages and other
+incidents must be investigated and root causes solved. Furthermore, at any large
+organization, dev infra services can be under a lot of load relative to the size
+of the teams responsible for them, and some will require on-call schedules in
+case a critical system breaks during an emergency (finding out the deployment
+tool is down when you're trying to ship a security fix is, let's just say, not a
+great experience).
 
 A larger team means less individual on-call time, and more hands for support and
 maintenance. However, expertise in a system is rarely gained by just reading
@@ -82,24 +82,24 @@ whole.
 ## High-level goals
 
 Specializing developer-infrastructure teams in particular domains is crucial for
-both maintenance and future investments. Road maps and visions will improve and
-expand on existing offerings: smoothing interfaces, expanding
+both maintenance and future investments. Team road maps and visions will improve
+and expand upon existing offerings: smoothing interfaces, expanding
 functionality, and scaling up existing solutions, and looking for new
 opportunities to impact development in their domain. The focus can make a big
 difference to developers during particular phases of their workflow: providing
-automation and feedback while writing code, speeding up CI execution, more
-reliably shipping PRs, more effectively monitoring services, etc.
+automation and feedback while writing code, speeding up CI execution, avoiding
+deployment backlogs, more effectively monitoring services, etc.
 
 This focus comes with a cost, however: the biggest impact we can have on
 development at any given time changes. When dev infra teams are first created,
-there are usually many low-hanging fruit, aggravating friction at multiple
-points in the development workflow, so many teams can simultaneously greatly
-improve developer experience. At some point, however, some systems will be "good
-enough" compared to others. Maybe CI times have finally dropped to 5 minutes.
-Maybe deploys rarely need attention after being initiated. At a large
-organization, in any area there will always be edge cases and bugs and special
-requirements, but their impact will be increasingly limited compared to
-engineering as a whole.
+there is usually a lot of low-hanging fruit—obvious friction at different points
+in the development workflow—so multiple teams can simultaneously greatly improve
+developer experience. At some point, however, some systems will be "good enough"
+compared to others. Maybe CI times have finally dropped to 5 minutes. Maybe
+deploys rarely need attention after being initiated. At a large organization, in
+any area there will always be edge cases and bugs and special requirements, but
+their impact will be increasingly limited when compared to engineering needs as
+a whole.
 
 At this point, there may be an opportunity for a large new initiative that will radically
 impact development in a particular way. There may be a few. But it's unlikely
