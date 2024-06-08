@@ -1,7 +1,7 @@
 baseURL = "https://mrcote.info/"
 languageCode = "en-ca"
 title = "mr mr cote"
-theme = "pickles"
+theme = "papermod"
 
 [params]
 AuthorName = "Mark Cote"
