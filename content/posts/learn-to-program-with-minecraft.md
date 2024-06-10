@@ -1,9 +1,8 @@
 ---
 title: "How to get started with Learn to Program With Minecraft in 2024"
 date: 2024-06-10T11:54:15-04:00
-draft: true
+categories: ["programming", "minecraft"]
 ---
-
 I acquired a copy of [_Learn to Program with
 Minecraft_](https://nostarch.com/programwithminecraft) from [No Starch
 Press](https://nostarch.com/) a while ago but only recently decided to crack it
@@ -41,7 +40,8 @@ bit, as I didn't notice at first that it was packaged up with the zip file for
 the book. RaspberryJuice provides an API based on the old [Minecraft Pi
 Edition](https://minecraft.fandom.com/wiki/Pi_Edition).  You can get it from
 [bukkit.org](https://dev.bukkit.org/projects/raspberryjuice); the link is under
-Recent Files on the right side of the page.
+Recent Files on the right side of the page.  Put the downloaded file in the
+`plugins` subdirectory of your Spigot installation.
 
 RaspberryJuice hasn't been updated since 2017, and it'll trigger a legacy-plugin
 warning in Spigot.  From what I can tell, though, everything seems to work fine
