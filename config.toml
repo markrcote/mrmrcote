@@ -4,6 +4,7 @@ title = "mr mr cote"
 theme = "papermod"
 
 [params]
+author = "Mark Cote"
 AuthorName = "Mark Cote"
 Tagline = "Educational, Investigative, and Absurd Writings by M. R. Côté"
 GithubUsername = "markrcote"
