@@ -2,6 +2,7 @@ baseURL = "https://mrcote.info/"
 languageCode = "en-ca"
 title = "mr mr cote"
 theme = "papermod"
+enableRobotsTXT = true
 
 [params]
 author = "Mark Cote"
