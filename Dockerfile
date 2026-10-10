@@ -1,4 +1,4 @@
-FROM ghcr.io/gohugoio/hugo:v0.156.0
+FROM ghcr.io/gohugoio/hugo:v0.167.0
 
 WORKDIR /app
 COPY --chown=hugo:hugo . /app
